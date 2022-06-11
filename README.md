@@ -1,2 +1,2 @@
 # ubuntu-base-focal-fr
-Image de base de Ubuntu Focal avec language et dépôts FR.
+Docker Image de base de Ubuntu Focal avec language et dépôts FR.
